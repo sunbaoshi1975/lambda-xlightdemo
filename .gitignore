@@ -1,0 +1,6 @@
+zappa_settings.json
+config.py
+*.bin
+*.zip
+.idea
+
