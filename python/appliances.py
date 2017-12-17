@@ -47,7 +47,7 @@ SAMPLE_APPLIANCES = [
     },
     {
         "applianceId": "node_" + PARTICLE_NODE_SECOND,
-        "manufacturerName": "Sample Manufacturer",
+        "manufacturerName": "Xlight",
         "modelName": "Smart White Light",
         "version": "1",
         "friendlyName": "Sunny",
